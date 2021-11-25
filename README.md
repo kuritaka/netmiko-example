@@ -2,7 +2,7 @@
 
 
 <br>
-This is my netmiko best practices
+Example of how to use netmiko
 <br>
 <br>
 
